@@ -27,15 +27,15 @@ https://biosails.github.io/pheniqs/glossary.html#phred_adjusted_maximum_likeliho
 9. The SeqAn C++ library implements several alignment algorithms:
 http://www.sciencedirect.com/science/article/pii/S0168165617315420
 10. Alignment-free tools for pairwise sequence comparison:
-* http://www.combio.pl/alfree/tools/
-* http://www.combio.pl/alfree
-* http://bioinformatics.org.au/tools/decaf+py/
+    * http://www.combio.pl/alfree/tools/
+    * http://www.combio.pl/alfree
+    * http://bioinformatics.org.au/tools/decaf+py/
 11. https://github.com/sdu-hpcl/BGSA
 12. Train a NN to approximate the pairwise alignment distance
 https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty887/5140215?redirectedFrom=fulltext
 13. Nucl2vec: https://github.com/prakharg24/Nucl2vec (local alignment only - could
 it be adapted to semi-global?)
-* Can re-implement in SpaCy? https://spacy.io/usage/vectors-similarity
+    * Can re-implement in SpaCy? https://spacy.io/usage/vectors-similarity
 14. Accelerated version of Smith-Waterman algorithm implemented in the Genomics
 Kernel Library: https://github.com/Intel-HLS/GKL
 15. MEM-align: https://sites.google.com/site/memalignv1/
