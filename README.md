@@ -12,6 +12,7 @@
 * EDLIB: edit distance-based alignment: https://github.com/Martinsos/edlib
 * The SeqAn C++ library implements several alignment algorithms:
 http://www.sciencedirect.com/science/article/pii/S0168165617315420
+* Biotite implementation of optimal alignment: https://www.biotite-python.org/apidoc/biotite.sequence.align.align_optimal.html#biotite.sequence.align.align_optimal
 
 ### Local
 
