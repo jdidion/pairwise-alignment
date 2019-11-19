@@ -14,6 +14,10 @@
 http://www.sciencedirect.com/science/article/pii/S0168165617315420
 * Biotite implementation of optimal alignment: https://www.biotite-python.org/apidoc/biotite.sequence.align.align_optimal.html#biotite.sequence.align.align_optimal
 * GASAL2: GPU-accelerated alignment https://github.com/nahmedraja/GASAL2
+* Stdaln: Fast dynamic programming algorithm by Heng Li: https://github.com/jts/nanopolish/tree/master/src/thirdparty
+* Heng Li review of dynamic programming algorithms: https://figshare.com/articles/Notes_on_pairwise_alignment_with_dynamic_programming/5223973
+* Parasail: SIMD-accelerated pairwise alignment algorithms https://github.com/jeffdaily/parasail
+* Greedy algorithm: http://pipmaker.bx.psu.edu/dist/greedy.pdf
 
 ### Local
 
@@ -32,19 +36,23 @@ http://www.bioinf.uni-freiburg.de/Lehre/Courses/2013_SS/V_Bioinformatik_1/lectur
    overlapping reads share alleles and indels (i.e. no gaps are required) (in C++).
    https://github.com/imgag/ngs-bits/tree/master/src/SeqPurge.
    * Speed up sequence comparison:
-     * Between adapters and overhangs:
-       * http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4080745/pdf/btu177.pdf
-     * Between reads:
-       * http://bioinformatics.oxfordjournals.org/content/30/14/2000.abstract
+      * Between adapters and overhangs: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4080745/pdf/btu177.pdf
+      * Between reads: http://bioinformatics.oxfordjournals.org/content/30/14/2000.abstract
 * Skewer algorithm: bit-masked k-difference matching (in C++): https://github.com/relipmoc/skewer
 * Quality-aware overlap alignment (in Haskell): https://hackage.haskell.org/package/bio-0.5.3/docs/Bio-Alignment-QAlign.html
 * FOGSAA, modified for semi-global alignment.
    * http://www.nature.com/articles/srep01746
    * http://www.isical.ac.in/~bioinfo_miu/FOGSAA.7z
-* Adaptive banded alignment: https://github.com/ocxtal/libgaba
+* Adaptive banded alignment:
+   * https://github.com/ocxtal/libgaba
+   * https://github.com/ocxtal/adaptivebandbench
 * Nepal: https://github.com/yamada-kd/nepal
-* BGSA: https://github.com/sdu-hpcl/BGSA
+* BGSA: provides accelerated implementation of the BitPAl algorithm https://github.com/sdu-hpcl/BGSA
 * MEM-align: https://sites.google.com/site/memalignv1/
+
+### Global
+
+* NW implementations with affine and linear gap penalties: https://github.com/AYahi/recNW
 
 ### Barcode matching
 
