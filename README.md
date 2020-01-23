@@ -18,6 +18,7 @@ http://www.sciencedirect.com/science/article/pii/S0168165617315420
 * Heng Li review of dynamic programming algorithms: https://figshare.com/articles/Notes_on_pairwise_alignment_with_dynamic_programming/5223973
 * Parasail: SIMD-accelerated pairwise alignment algorithms https://github.com/jeffdaily/parasail
 * Greedy algorithm: http://pipmaker.bx.psu.edu/dist/greedy.pdf
+* There is the possibility to apply techniques from short-read aligners to pairwise alignment, e.g. seed-and-chain. Some useful algorithms are available in Modular Aligner: https://github.com/ITBE-Lab/MA
 
 ### Local
 
