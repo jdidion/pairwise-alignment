@@ -11,10 +11,10 @@ mod dpmatrix {
         /// The matrix itself; uses a signed data container (e.g. i16) so that a negative value
         /// can be used to represent uninitialized cells.
         matrix: Array2<i16>,
-        /// The reference string used to create the matrix
-        reference: &AsciiStr,
-        /// The query string used to create the matrix
-        query: &AsciiStr,
+        /// The reference used to create the matrix
+        reference: &'static [u8],
+        /// The query used to create the matrix
+        query: &'static [u8],
     }
 
     impl DPMatrix {
@@ -24,7 +24,7 @@ mod dpmatrix {
         /// 
         /// * reference: The reference string
         /// * query: The query string
-        fn new(reference: &AsciiStr, query: &AsciiStr) -> DPMatrix {
+        fn new(reference: &'static [u8], query: &'static [u8]) -> DPMatrix {
             let m = reference.len()
             let n = query.len()
 
