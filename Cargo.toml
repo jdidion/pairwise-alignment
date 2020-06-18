@@ -1,0 +1,11 @@
+[package]
+name = "aligner"
+description = "A Rust implementation of the Cutadapt aligner"
+version = "0.1.0"
+authors = ["John Didion <github@didion.net>"]
+license = "MIT"
+edition = "2018"
+
+[lib]
+name = "aligner"
+path = "src/lib.rs"
