@@ -9,6 +9,7 @@
     * http://www.combio.pl/alfree
     * http://bioinformatics.org.au/tools/decaf+py/
     * Idea: Train a NN to approximate the pairwise alignment distance https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty887/5140215?redirectedFrom=fulltext
+    * Optimized embedding function: https://www.biorxiv.org/content/10.1101/2020.05.24.113852v2
 * EDLIB: edit distance-based alignment: https://github.com/Martinsos/edlib
 * The SeqAn C++ library implements several alignment algorithms:
 http://www.sciencedirect.com/science/article/pii/S0168165617315420
