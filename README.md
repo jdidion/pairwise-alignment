@@ -28,6 +28,7 @@ http://www.sciencedirect.com/science/article/pii/S0168165617315420
     * local alignment only - could it be adapted to semi-global?
     * Can re-implement in SpaCy? https://spacy.io/usage/vectors-similarity
 * Accelerated version of Smith-Waterman algorithm implemented in the Genomics Kernel Library: https://github.com/Intel-HLS/GKL
+* GPU-accelerated Smith-Waterman for nucleotides or proteins: https://github.com/mgawan/GPU-BSW
 
 ### Semi-global
 
