@@ -21,6 +21,7 @@ http://www.sciencedirect.com/science/article/pii/S0168165617315420
 * Greedy algorithm: http://pipmaker.bx.psu.edu/dist/greedy.pdf
 * There is the possibility to apply techniques from short-read aligners to pairwise alignment, e.g. seed-and-chain. Some useful algorithms are available in Modular Aligner: https://github.com/ITBE-Lab/MA
 * [WFA](https://github.com/smarco/WFA): `O(ns)` algorithm (i.e. very fast for similar sequences)
+* Block aligner (WIP): https://github.com/Daniel-Liu-c0deb0t/block-aligner
 
 ### Local
 
