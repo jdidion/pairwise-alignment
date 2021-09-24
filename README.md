@@ -54,6 +54,7 @@ http://www.bioinf.uni-freiburg.de/Lehre/Courses/2013_SS/V_Bioinformatik_1/lectur
 * Nepal: https://github.com/yamada-kd/nepal
 * BGSA: provides accelerated implementation of the BitPAl algorithm https://github.com/sdu-hpcl/BGSA
 * MEM-align: https://sites.google.com/site/memalignv1/
+* Atria: byte-based matching algorithm https://github.com/cihga39871/Atria
 
 ### Global
 
