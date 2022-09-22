@@ -60,6 +60,7 @@ http://www.bioinf.uni-freiburg.de/Lehre/Courses/2013_SS/V_Bioinformatik_1/lectur
 ### Global
 
 * NW implementations with affine and linear gap penalties: https://github.com/AYahi/recNW
+* A*PW https://github.com/RagnarGrootKoerkamp/astar-pairwise-aligner?utm_source=pocket_mylist
 
 ### Barcode matching
 
