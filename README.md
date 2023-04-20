@@ -23,6 +23,7 @@ http://www.sciencedirect.com/science/article/pii/S0168165617315420
 * [WFA](https://github.com/smarco/WFA): `O(ns)` algorithm (i.e. very fast for similar sequences)
     * WFA-inspired implementation of LV https://github.com/lh3/lv89
 * Block aligner (WIP): https://github.com/Daniel-Liu-c0deb0t/block-aligner
+* https://github.com/CMU-SAFARI/Scrooge
 
 ### Local
 
@@ -60,7 +61,7 @@ http://www.bioinf.uni-freiburg.de/Lehre/Courses/2013_SS/V_Bioinformatik_1/lectur
 ### Global
 
 * NW implementations with affine and linear gap penalties: https://github.com/AYahi/recNW
-* A*PW https://github.com/RagnarGrootKoerkamp/astar-pairwise-aligner?utm_source=pocket_mylist
+* A*PW https://github.com/RagnarGrootKoerkamp/astar-pairwise-aligner
 
 ### Barcode matching
 
