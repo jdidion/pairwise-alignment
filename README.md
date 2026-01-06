@@ -24,6 +24,7 @@ http://www.sciencedirect.com/science/article/pii/S0168165617315420
     * WFA-inspired implementation of LV https://github.com/lh3/lv89
 * Block aligner (WIP): https://github.com/Daniel-Liu-c0deb0t/block-aligner
 * https://github.com/CMU-SAFARI/Scrooge
+* GPU-accelerated: https://github.com/fkallen/Accelign
 
 ### Local
 
