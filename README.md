@@ -72,6 +72,10 @@ http://www.bioinf.uni-freiburg.de/Lehre/Courses/2013_SS/V_Bioinformatik_1/lectur
 * Pheniqs demultiplxer
    * Phred-adjusted ML for error probability: https://github.com/biosails/pheniqs/blob/master/docs/2.0/glossary.md
 
+### Edit Distance
+
+* https://github.com/maxdoblas/QuickEd
+
 ## Other
 
 * Test whether different sequence encodings might enable faster alignment
