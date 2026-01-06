@@ -65,6 +65,7 @@ http://www.bioinf.uni-freiburg.de/Lehre/Courses/2013_SS/V_Bioinformatik_1/lectur
 * A*PW https://github.com/RagnarGrootKoerkamp/astar-pairwise-aligner
 * Parameter-free, context-specific scoring (optimized for long repeats): https://github.com/seryrzu/unialigner
 * https://github.com/ruanjue/bsalign
+* https://github.com/bxskdh/TSTA
 
 ### Barcode matching
 
